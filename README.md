@@ -1,0 +1,2 @@
+# Apps
+Static web apps
